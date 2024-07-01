@@ -1,164 +1,100 @@
-# DevOps Roadmap
+<h1 align="center">DevOps Engineer Learning Path</h1>
 
-Welcome to the DevOps Roadmap repository! This document outlines the detailed process and agenda for the DevOps learning journey. Please note that this roadmap is tentative and will be updated regularly.
+<p align="center">
+  <img src="navin-kumar10/DevOps-roadmap/devops-cycle.png">
+</p>
 
-## Agenda
+## Overview
 
-### Prerequisites
-- **Linux Basics**
-- **Python Prep**
+This repository serves as an easy learning path for DevOps engineers, covering essential topics and hands-on exercises.
 
-### AWS Cloud Essentials
-- **Day 1**
-  - Topic: AWS Account Creation + Intro to AWS
+## Prerequisites
 
-- **Day 2**
-  - Topic: EC2
+- Linux
+- Python
 
-- **Day 3**
-  - Topic: EC2 and EBS
+## AWS Topics
 
-- **Day 4**
-  - Topic: FSx and EFS
+- AWS Account Creation + Intro to AWS
+- EC2
+- EC2 and EBS
+- FSx and EFS
+- IAM
+- CloudWatch and CloudTrail
+- Load Balancing
+- Autoscaling
+- Route53
+- VPC
+- S3
+- RDS
+- CloudFormation and SQS
+- SES, SNS, and Lambda
+- Elastic Beanstalk and API Gateway
+- Global Accelerator and CloudFront
+- ENI, ENA, and EFA
+- AWS Backup Family
 
-- **Day 5**
-  - Topic: IAM
+### Hands-on Labs
 
-- **Day 6**
-  - Topic: CloudWatch and CloudTrail
+- EC2 - Hands-on
+- EBS, EFS, ELB - Hands-on
+- Autoscaling - Hands-on
+- VPC - Hands-on
+- S3 - Hands-on
+- IAM - Hands-on
+- Lambda - Hands-on
 
-- **Day 7**
-  - Topic: Load Balancing
+## DevOps Topics
 
-- **Day 8**
-  - Topic: Autoscaling
+### Introduction to DevOps
 
-- **Day 9**
-  - Topic: Route53
+- Software Version Control using Git
+- Configuration Management using Ansible
+- Docker
+- Continuous Orchestration using Kubernetes
+- Jenkins
+- ELK Stack
+- Terraform
 
-- **Day 10**
-  - Topic: VPC
+### Hands-on Labs
 
-- **Day 11**
-  - Topic: S3
+- Git Hands-on
+- Docker Hands-on
+- Kubernetes Hands-on
+- Jenkins Hands-on
+- Ansible Hands-on
 
-- **Day 12**
-  - Topic: RDS
+### Project Work
 
-- **Day 13**
-  - Topic: CloudFormation and SQS
+- DevOps on AWS
+- Project 2: Unlock & Discussion on Project 1
+- Mock Interview Preparation
 
-- **Day 14**
-  - Topic: SES, SNS, and Lambda
+## Virtualization
 
-- **Day 15**
-  - Topic: Elastic Beanstalk and API Gateway
+- Virtualization Overview
+- Hands-on Exercises
+- Migration Strategies
 
-- **Day 16**
-  - Topic: Global Accelerator and CloudFront
+## Optional Elective Topics
 
-- **Day 17**
-  - Topic: ENI, ENA, and EFA
+- Course Overview
+- Modules
+- Pre-Requisites
+- Introduction to Cloud Computing
+- IaaS, PaaS, SaaS
+- Azure DataCenter and Regions
+- Understanding Azure Architecture
+- Azure Services Overview
+- Azure PowerShell and Azure CLI
+- Azure Storage and Azure VMs
+- Azure Containers and Kubernetes
+- Azure Networking (VNET, Load Balancer, Traffic Manager)
+- Azure Active Directory (Azure AD)
+- Azure DevOps
+- Azure Data Factory
+- Big Data with Cloud Computing
 
-- **Day 18**
-  - Topic: AWS Backup Family
+## Contributing
 
-- **Day 19**
-  - Topic: EC2 - Hands on
-
-- **Day 20**
-  - Topic: EBS, EFS, ELB - Hands on
-
-- **Day 21**
-  - Topic: Autoscaling - Hands on
-
-- **Day 22**
-  - Topic: VPC - Hands on
-
-- **Day 23**
-  - Topic: S3 - Hands on
-
-- **Day 24**
-  - Topic: IAM - Hands on
-
-- **Day 25**
-  - Topic: Lambda - Hands on
-
-- **Day 26**
-  - Topic: Project
-
-### DevOps Practices
-- **Day 27**
-  - Topic: Introduction to DevOps
-
-- **Day 28**
-  - Topic: Software Version Control using Git
-
-- **Day 29**
-  - Topic: Configuration Management using Ansible
-
-- **Day 30**
-  - Topic: Docker
-
-- **Day 31**
-  - Topic: Continuous Orchestration using Kubernetes
-
-- **Day 32**
-  - Topic: Jenkins
-
-- **Day 33**
-  - Topic: ELK Stack (Elasticsearch, Logstash, Kibana)
-
-- **Day 34**
-  - Topic: Terraform
-
-- **Day 35**
-  - Topic: Git Hands-on
-
-- **Day 36**
-  - Topic: Docker Hands-on
-
-- **Day 37**
-  - Topic: Kubernetes Hands-on
-
-- **Day 38**
-  - Topic: Jenkins Hands-on
-
-- **Day 39**
-  - Topic: Ansible Hands-on
-
-- **Day 40**
-  - Topic: Project
-
-### DevOps on AWS
-- **Day 41**
-  - Topic: DevOps on AWS
-
-- **Day 42**
-  - Topic: DevOps on AWS
-
-- **Day 43**
-  - Topic: Project Work 2 Unlock & Discussion on Project 1
-
-### Final Preparation
-- **Day 44**
-  - Topic: Mock Interview Preparation for DevOps
-
-### Optional Elective Topics
-- **Day 52**
-  - Topic: Course Overview, Modules, Pre-Requisites, Introduction to Cloud Computing, IaaS, PaaS, SaaS
-
-- **Day 53**
-  - Topic: Azure DataCenter, Regions, Understanding of Azure Architecture, Resource Group, Subscription
-
-- **Day 54**
-  - Topic: ARM, Azure Services - Compute, Storage, Network, Database, Demo on Resource Group
-
-... (continue the optional topics as per your needs)
-
-## Updates
-This roadmap is subject to change and will be updated on a weekly basis. We will notify you of any changes.
-
----
-
-Feel free to contribute and provide feedback to improve this roadmap. Happy learning!
+Contributions are welcome! Please fork this repository and submit a pull request.
