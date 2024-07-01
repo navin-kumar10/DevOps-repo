@@ -1,7 +1,7 @@
 <h1 align="center">DevOps Engineer Learning Path</h1>
 
 <p align="center">
-  <img src="navin-kumar10/DevOps-roadmap/devops-cycle.png">
+  <img src="devops-cycle.png">
 </p>
 
 ## Overview
