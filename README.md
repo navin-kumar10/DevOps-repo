@@ -2,25 +2,6 @@
 
 Welcome to the DevOps Roadmap repository! This document outlines the detailed process and agenda for the DevOps learning journey. Please note that this roadmap is tentative and will be updated regularly.
 
-<style>
-  body {
-    background-color: #f0f8ff;
-    font-family: Arial, sans-serif;
-  }
-  h1, h2, h3 {
-    color: #2e8b57;
-  }
-  ul {
-    background: #ffffff;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  }
-  li {
-    margin-bottom: 10px;
-  }
-</style>
-
 ## Agenda
 
 ### Prerequisites
