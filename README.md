@@ -1,7 +1,7 @@
 <h1 align="center">DevOps Engineer Learning Path</h1>
 
 <p align="center">
-  <img src="devops-cycle.png">
+  <img src="devops-cycle.png" alt="DevOps Cycle">
 </p>
 
 ## Overview
@@ -36,13 +36,13 @@ This repository serves as an easy learning path for DevOps engineers, covering e
 
 ### Hands-on Labs
 
-- EC2 - Hands-on
-- EBS, EFS, ELB - Hands-on
-- Autoscaling - Hands-on
-- VPC - Hands-on
-- S3 - Hands-on
-- IAM - Hands-on
-- Lambda - Hands-on
+- [EC2 - Hands-on](assignments/EC2_Hands-on.md)
+- [EBS, EFS, ELB - Hands-on](assignments/EBS_EFS_ELB_Hands-on.md)
+- [Autoscaling - Hands-on](assignments/Autoscaling_Hands-on.md)
+- [VPC - Hands-on](assignments/VPC_Hands-on.md)
+- [S3 - Hands-on](assignments/S3_Hands-on.md)
+- [IAM - Hands-on](assignments/IAM_Hands-on.md)
+- [Lambda - Hands-on](assignments/Lambda_Hands-on.md)
 
 ## DevOps Topics
 
@@ -58,11 +58,11 @@ This repository serves as an easy learning path for DevOps engineers, covering e
 
 ### Hands-on Labs
 
-- Git Hands-on
-- Docker Hands-on
-- Kubernetes Hands-on
-- Jenkins Hands-on
-- Ansible Hands-on
+- [Git Hands-on](assignments/Git_Hands-on.md)
+- [Docker Hands-on](assignments/Docker_Hands-on.md)
+- [Kubernetes Hands-on](assignments/Kubernetes_Hands-on.md)
+- [Jenkins Hands-on](assignments/Jenkins_Hands-on.md)
+- [Ansible Hands-on](assignments/Ansible_Hands-on.md)
 
 ### Project Work
 
@@ -94,7 +94,3 @@ This repository serves as an easy learning path for DevOps engineers, covering e
 - Azure DevOps
 - Azure Data Factory
 - Big Data with Cloud Computing
-
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request.
