@@ -94,3 +94,7 @@ This repository serves as an easy learning path for DevOps engineers, covering e
 - Azure DevOps
 - Azure Data Factory
 - Big Data with Cloud Computing
+
+### Project Timeline Sheet
+
+- [Task Management Sheet](Project Task Management.md)
