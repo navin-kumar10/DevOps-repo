@@ -98,3 +98,11 @@ This repository serves as an easy learning path for DevOps engineers, covering e
 ### Project Timeline Sheet
 
 - [Task Management Sheet](Documents/Project-Management.md)
+
+### CloudOps Sandbox:
+
+- [Module 1: EC2 & EFS ](Documents/CloudOps/Aws/EC2&EFS.pdf)
+
+### Project Playground:
+
+- [SRC 1: Frontend Code Deployment ](Documents/CloudOps/Aws/src/project-1.pdf)
