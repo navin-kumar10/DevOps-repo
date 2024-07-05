@@ -19,9 +19,6 @@ This repository serves as an easy learning path for DevOps engineers, covering e
 - Python
   - [1. Python-Notes](Documents/python/Python__Notes.pdf)
 
-- Python
-  - [1. Python-Notes](Documents/python/Python__Notes.pdf)
-
 - DevOps
   - [1. Integrates development and operations teams to automate the deployment
 pipeline and streamline the software release process.](/Documents/Aws&Devops-INTRO/DevOps_notes.pdf)
