@@ -19,6 +19,16 @@ This repository serves as an easy learning path for DevOps engineers, covering e
 - Python
   - [1. Python-Notes](Documents/python/Python__Notes.pdf)
 
+- Python
+  - [1. Python-Notes](Documents/python/Python__Notes.pdf)
+
+- DevOps
+  - [1. Basics Of DevOps-](/Documents/Aws&Devops-INTRO/DevOps_1711632455.pdf)
+
+  <p align="center">
+    <img src="Periodic Table of Devops_Tools.pdf" alt="Periodic Table of Devops_Tools">
+  </p>
+
 ## AWS Topics
 
 - AWS Account Creation + Intro to AWS
@@ -105,10 +115,10 @@ This repository serves as an easy learning path for DevOps engineers, covering e
 
 - [Task Management Sheet](Documents/Project-Management.md)
 
-### CloudOps Sandbox:
+### CloudOps Sandbox
 
-- [Module 1: EC2 & EFS ](Documents/CloudOps/Aws/EC2&EFS.pdf)
+- [Module 1: EC2 & EFS](Documents/CloudOps/Aws/EC2&EFS.pdf)
 
-### Project Playground:
+### Project Playground
 
-- [SRC 1: Frontend Code Deployment ](Documents/CloudOps/Aws/src/project-1.pdf)
+- [SRC 1: Frontend Code Deployment](Documents/CloudOps/Aws/src/project-1.pdf)
