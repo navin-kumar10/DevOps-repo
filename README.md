@@ -23,7 +23,8 @@ This repository serves as an easy learning path for DevOps engineers, covering e
   - [1. Python-Notes](Documents/python/Python__Notes.pdf)
 
 - DevOps
-  - [1. Basics Of DevOps](/Documents/Aws&Devops-INTRO/DevOps_notes.pdf)
+  - [1. Integrates development and operations teams to automate the deployment
+pipeline and streamline the software release process.](/Documents/Aws&Devops-INTRO/DevOps_notes.pdf)
 
   <p align="center">
     <img src="Documents/Aws&Devops-INTRO/Periodic Table of Devops_Tools.png" alt="Periodic Table of Devops_Tools">
@@ -33,6 +34,7 @@ This repository serves as an easy learning path for DevOps engineers, covering e
 
 - AWS Account Creation + Intro to AWS
 - EC2
+- S3
 - EC2 and EBS
 - FSx and EFS
 - IAM
@@ -52,6 +54,14 @@ This repository serves as an easy learning path for DevOps engineers, covering e
 
 ### Hands-on Labs
 
+- AWS-CLI Installation
+  - [AWS CLI- setup ](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-quickstart.html)
+  - [AWS CLI-Commands](Documents/Aws&Devops-INTRO/AWS-CLI.jpg)
+  - [AZURE CLI-Commands](Documents/Aws&Devops-INTRO/Azure-CLI.jpg)
+  - [GCP CLI-Commands](Documents/Aws&Devops-INTRO/GCP-CLI.jpg)
+  - [AWS CLI-Commands](Documents/Aws&Devops-INTRO/AWS-CLI.jpg)
+  - [AZURE CLI-Commands](Documents/Aws&Devops-INTRO/Azure-CLI.jpg)
+  - [GCP CLI-Commands](Documents/Aws&Devops-INTRO/GCP-CLI.jpg)
 - [EC2 - Hands-on](assignments/EC2_Hands-on.md)
 - [EBS, EFS, ELB - Hands-on](assignments/EBS_EFS_ELB_Hands-on.md)
 - [Autoscaling - Hands-on](assignments/Autoscaling_Hands-on.md)
