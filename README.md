@@ -11,10 +11,11 @@ This repository serves as an easy learning path for DevOps engineers, covering e
 ## Prerequisites
 
 - Linux
-      [1.Linux-Basic Commands](Documents/linux/Linux_1701917941.pdf)
-      [1.Linux-Basic Commands](Documents/linux/Unix_SG_1.doc)
-      [1.Linux-Basic Commands](Documents/linux/Unix_SG_2.doc)
-      [1.Linux-Basic Commands](Documents/linux/Unix_SG_3.doc)
+  - [1. Linux-Basic Commands](Documents/linux/Linux_1701917941.pdf)
+  - [2. Linux-Basic Commands](Documents/linux/Unix_SG_1.doc)
+  - [3. Linux-Basic Commands](Documents/linux/Unix_SG_2.doc)
+  - [4. Linux-Basic Commands](Documents/linux/Unix_SG_3.doc)
+
 - Python
 
 ## AWS Topics
