@@ -56,12 +56,21 @@ pipeline and streamline the software release process.](/Documents/Aws&Devops-INT
 
 - AWS-CLI Installation
   - [AWS CLI- setup ](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-quickstart.html)
-  - [AWS CLI-Commands](Documents/Aws&Devops-INTRO/AWS-CLI.jpg)
-  - [AZURE CLI-Commands](Documents/Aws&Devops-INTRO/Azure-CLI.jpg)
-  - [GCP CLI-Commands](Documents/Aws&Devops-INTRO/GCP-CLI.jpg)
-  - [AWS CLI-Commands](Documents/Aws&Devops-INTRO/AWS-CLI.jpg)
-  - [AZURE CLI-Commands](Documents/Aws&Devops-INTRO/Azure-CLI.jpg)
-  - [GCP CLI-Commands](Documents/Aws&Devops-INTRO/GCP-CLI.jpg)
+  
+<h3 align="left">CLI COMMANDS</h3>
+
+  <p align="left">
+    <img src="Documents/Aws&Devops-INTRO/AWS-CLI.jpg" alt="AWS CLI Commands">
+  </p>
+
+  <p align="center">
+    <img src="Documents/Aws&Devops-INTRO/Azure-CLI.jpg" alt="AZURE CLI Commands">
+  </p>
+
+  <p align="right">
+    <img src="Documents/Aws&Devops-INTRO/GCP-CLI.jpg" alt="GCP CLI Commands">
+  </p>
+
 - [EC2 - Hands-on](assignments/EC2_Hands-on.md)
 - [EBS, EFS, ELB - Hands-on](assignments/EBS_EFS_ELB_Hands-on.md)
 - [Autoscaling - Hands-on](assignments/Autoscaling_Hands-on.md)
