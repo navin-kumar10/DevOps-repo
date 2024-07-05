@@ -23,10 +23,10 @@ This repository serves as an easy learning path for DevOps engineers, covering e
   - [1. Python-Notes](Documents/python/Python__Notes.pdf)
 
 - DevOps
-  - [1. Basics Of DevOps-](/Documents/Aws&Devops-INTRO/DevOps_1711632455.pdf)
+  - [1. Basics Of DevOps-](/Documents/Aws&Devops-INTRO/DevOps_notes.pdf)
 
   <p align="center">
-    <img src="Periodic Table of Devops_Tools.pdf" alt="Periodic Table of Devops_Tools">
+    <img src="Documents/Aws&Devops-INTRO/Periodic Table of Devops_Tools.png" alt="Periodic Table of Devops_Tools">
   </p>
 
 ## AWS Topics
