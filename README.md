@@ -17,6 +17,7 @@ This repository serves as an easy learning path for DevOps engineers, covering e
   - [4. Linux-Basic Commands](Documents/linux/Unix_SG_3.pdf)
 
 - Python
+  - [1. Python-Notes](Documents/python/Python__Notes.pdf)
 
 ## AWS Topics
 
