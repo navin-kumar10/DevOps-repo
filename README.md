@@ -24,7 +24,7 @@ This repository serves as an easy learning path for DevOps engineers, covering e
 pipeline and streamline the software release process.](/Documents/Aws&Devops-INTRO/DevOps_notes.pdf)
 
   <p align="center">
-    <img src="Documents/Aws&Devops-INTRO/Periodic Table of Devops_Tools.png" alt="Periodic Table of Devops_Tools">
+    <img src="https://digital.ai/wp-content/themes/yoko-digitalai-child/periodic-table/self-contained/table.php' style='border:0px #FFFFFF none;' name='Periodic Table of DevOps Tools' scrolling='yes' frameborder='1' marginheight='0px' marginwidth='0px' height='100%' width='90%">
   </p>
 
 ## AWS Topics
