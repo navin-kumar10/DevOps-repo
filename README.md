@@ -27,9 +27,10 @@ pipeline and streamline the software release process.](/Documents/Aws&Devops-INT
     <img src="Documents/Aws&Devops-INTRO/Periodic Table of Devops_Tools.png" alt="Periodic Table of Devops_Tools">
   </p>
 
-  <p align="center">
-    <img src="Documents/CloudOps/Different types of deployments.pdf" alt="Types Of Deployments">
-  </p>
+### Types Of Deployments
+
+- Deployment Strategies
+  - [Different types of deployments in cloud and DevOps.](Documents/CloudOps/Different types of deployments.pdfDocuments/CloudOps/Different types of deployments.html)
 
 ## AWS Topics
 
