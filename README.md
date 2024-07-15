@@ -30,7 +30,7 @@ pipeline and streamline the software release process.](/Documents/Aws&Devops-INT
 ### Types Of Deployments
 
 - Deployment Strategies
-  - [Different types of deployments in cloud and DevOps.](Documents/CloudOps/Different types of deployments.pdfDocuments/CloudOps/Different types of deployments.html)
+  - [Different types of deployments in cloud and DevOps](/Documents/CloudOps/Differenttypesofdeployments.html)
 
 ## AWS Topics
 
