@@ -28,7 +28,7 @@ pipeline and streamline the software release process.](/Documents/Aws&Devops-INT
   </p>
 
   <p align="center">
-    <img src="Documents/CloudOps/Differenttypesofdeployments.html" alt="Types Of Deployments">
+    <img src="Documents/CloudOps/Different types of deployments.pdf" alt="Types Of Deployments">
   </p>
 
 ## AWS Topics
