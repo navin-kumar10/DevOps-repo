@@ -27,6 +27,10 @@ pipeline and streamline the software release process.](/Documents/Aws&Devops-INT
     <img src="Documents/Aws&Devops-INTRO/Periodic Table of Devops_Tools.png" alt="Periodic Table of Devops_Tools">
   </p>
 
+  <p align="center">
+    <img src="Documents/CloudOps/Differenttypesofdeployments.html" alt="Types Of Deployments">
+  </p>
+
 ## AWS Topics
 
 - AWS Account Creation + Intro to AWS
